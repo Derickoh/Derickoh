@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing e-commerce website with the use of react, REST API...
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on many projects
-- 📫 Reach out to me at eamil: nchoupourfruh@gmail.com
+- 📫 Reach out to me at email: nchoupourfruh@gmail.com
 
 <!---
 Derickoh/Derickoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
